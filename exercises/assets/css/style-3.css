@@ -8,6 +8,9 @@ body { line-height: 1.5; min-height: 100vh }
 @media (min-width: 768px ) { body { text-rendering: optimizeLegibility } }
 img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
+
+
+body { background-color: lightblue; }
 @media (min-width: 768px) {
     section { padding: 4% 20% }
  }
@@ -20,6 +23,7 @@ input, button, textarea, select { font: inherit }
 h2 {
     font-size: 56px;
     margin-bottom: 4px;
+    color: blue;
 }
 
 h3 {
@@ -31,3 +35,4 @@ p {
     font-size: 24px;
     margin-bottom: 16px
 }
+a { color: blue; }

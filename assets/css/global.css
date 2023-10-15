@@ -10,6 +10,9 @@ img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
 
 /* ================= ENDS ================ */
+
+body { background-color: lightgreen; }
+
 @media (min-width: 768px) {
     body { padding: 4% 20% }
  }
@@ -50,3 +53,5 @@ p {
     font-size: 20px;
     margin-bottom: 16px;
 }
+
+a { color: darkgreen; }
