@@ -55,3 +55,8 @@ p {
 }
 
 a { color: darkgreen; }
+img{
+    margin-bottom:42px ;
+    box-shadow: 8px 10px 8px #888;
+    border-radius: 20px;
+}
