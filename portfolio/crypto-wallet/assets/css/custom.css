@@ -1,0 +1,6 @@
+.section-selector-1 > p { color: var(--white-000) }
+.section-selector-1 >.badge span  { 
+    color: var(--white-000);
+    background-color: var(--trend-700) ;
+    text-transform: uppercase
+ }
