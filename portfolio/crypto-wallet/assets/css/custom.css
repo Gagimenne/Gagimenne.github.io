@@ -1,4 +1,5 @@
 .section-selector-1 > p { color: var(--white-000) }
+.section-selector-1 { background-color: var(--trend-700) }
 .section-selector-1 >.badge span  { 
     color: var(--white-000);
     background-color: var(--trend-700) ;
@@ -15,3 +16,8 @@
  .section-selector-4 h2{
     font-weight: 400;
  }
+ .section-selector-3 { background-color: var(--trend-700) }
+.section-selector-2 { background-color: var(--trend-800) }
+
+
+
